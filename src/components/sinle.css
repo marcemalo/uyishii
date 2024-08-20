@@ -1,0 +1,18 @@
+.baner__text{
+    max-width: 560px;
+    font-size: 18px;
+    color: #201F1F;
+    font-family: sans-serif;
+}
+.banner{
+   height: 100vh;
+    background-color: #F9F4EC;
+}
+.baner__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gh{
+    margin-top: 15px;
+}

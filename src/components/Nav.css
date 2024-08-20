@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    height: 54px;
+    background-color: #F9F4EC;
+}
+.container{
+    max-width: 971px;
+    height: 100%;
+    margin: 0 auto;
+}
+.nav__h1{
+    color: #201F1F;
+    font-family:  sans-serif;
+}
+.nav__wrapper{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
